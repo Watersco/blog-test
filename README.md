@@ -12,6 +12,17 @@
 * 秘密
 
 我还会写代码，写几句给你看看：
-```html
+
+单行代码块：
+`html
 <a href='https://www.google.com'>Google</a>
+`
+
+多行代码块：
+```css
+.box {
+  border: 1px green soild;
+  margin: 0 auto;
+  heigt: 20px;
+  width: 20px;
 ```
