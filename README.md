@@ -13,12 +13,12 @@
 
 我还会写代码，写几句给你看看：
 
-单行代码块：
-`html
+一行代码：
+`
 <a href='https://www.google.com'>Google</a>
 `
 
-多行代码块：
+多行代码：
 ```css
 .box {
   border: 1px green soild;
